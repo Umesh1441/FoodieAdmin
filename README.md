@@ -1,3 +1,9 @@
+#link of the Deployed website 
+Link: https://foodie-bb38d.web.app
+
+#Demo of the website in mobile 
+https://github.com/Umesh1441/FoodieAdmin/assets/124519768/c1419285-b776-436c-9e22-aacfad4f22ff
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
